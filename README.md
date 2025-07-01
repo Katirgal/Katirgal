@@ -13,14 +13,14 @@ Over the past few months, I completed the AWS re/Start training program through 
 ---
 
 ## 🔍 What I’m working on:
-- 🌐 Building secure, scalable portfolio projects on AWS (see [katiriagaws.com](https://www.katiriagaws.com))
+- 🌐 Building secure, scalable portfolio projects on AWS 
 - 🧩 Practicing systems support with Active Directory & Office 365
 - 📚 Studying ServiceNow administration and desktop endpoint management
 
 ---
 
 ## 📫 Let’s connect!
-- 🌐 [My Résumé Website](https://www.katiriagaws.com)
+- 🌐 [My Resume Website](https://www.katiriagaws.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/katiria-galarza)
 - ✉️ Email: katiriagalarzao@gmail.com
 

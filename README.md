@@ -24,6 +24,7 @@ Over the past few months, I completed the AWS re/Start training program through 
 - 💼 [LinkedIn](https://www.linkedin.com/in/katiria-galarza)
 - ✉️ Email: katiriagalarzao@gmail.com
 
+
 ---
 
 > “Empathy and technical clarity are my tools of choice — I love guiding users toward solutions that leave them confident and empowered.”

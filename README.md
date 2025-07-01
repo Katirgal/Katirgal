@@ -20,8 +20,8 @@ Over the past few months, I completed the AWS re/Start training program through 
 ---
 
 ## 📫 Let’s connect!
-- 🌐 [My Resume Website](https://www.katiriagaws.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/katiria-galarza)
+- 🌐[My Resume Website](https://www.katiriagaws.com)
+- 💼[LinkedIn](https://www.linkedin.com/in/katiria-galarza)
 - ✉️ Email: katiriagalarzao@gmail.com
 
 
